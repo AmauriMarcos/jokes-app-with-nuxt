@@ -1,6 +1,6 @@
 <template>
     <div id="home">
-      <h2 class="home-title">Welcome to the best corny best dad jokes.</h2>
+      <h2 class="home-title">Welcome to the best corny dad jokes.</h2>
       <nuxt-link tag="button" to="/jokes">Get Started</nuxt-link>
     </div>
 </template>
