@@ -60,7 +60,7 @@ export default {
         }
 
         & a{
-            color: rgb(180, 122, 122);
+            color: rgb(111, 139, 192);
             
             &:hover{
                 color: rgb(180, 61, 61);
@@ -72,6 +72,7 @@ export default {
     .title{
         color: #fff;
         text-transform: uppercase;
-        letter-spacing: 1rem;
+        letter-spacing: .5rem;
+        font-family: 'Caveat', cursive;
     }
 </style>
