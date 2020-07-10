@@ -30,4 +30,19 @@ export default {
    color: white;
    margin-bottom: 2rem;
 }
-</style>
+
+button{
+        border: none;
+        border-radius: 3px;
+        padding: .7rem 2rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: royalblue;
+        font-weight: bold;
+        text-transform: uppercase;
+
+        &:hover{
+            background-color: rgb(56, 84, 168);
+        }
+    }le>
