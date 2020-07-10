@@ -45,4 +45,5 @@ button{
         &:hover{
             background-color: rgb(56, 84, 168);
         }
-    }le>
+    }
+</style>
