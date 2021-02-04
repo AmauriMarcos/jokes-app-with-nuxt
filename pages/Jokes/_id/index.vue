@@ -30,7 +30,7 @@ export default {
 
         try {
             
-            const res = await axios.get(`https://icanhazdadjoke.com/j/${this.$route.params.id}`, config)
+            const res = await axios.get(`https://icanhazdadjoke.com/j/${$route.params.id}`, config)
             this.idJoke = res.data
 
         } catch (error) {
